@@ -26,28 +26,33 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/23MH1A1242/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/23MH1A1242/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3827-implement-router](https://github.com/23MH1A1242/leetcode/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/23MH1A1242/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/23MH1A1242/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/23MH1A1242/leetcode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/23MH1A1242/leetcode/tree/master/3827-implement-router) |
 ## Design
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/23MH1A1242/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/23MH1A1242/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/23MH1A1242/leetcode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/23MH1A1242/leetcode/tree/master/3827-implement-router) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/23MH1A1242/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/23MH1A1242/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/23MH1A1242/leetcode/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/23MH1A1242/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/23MH1A1242/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/23MH1A1242/leetcode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/23MH1A1242/leetcode/tree/master/3827-implement-router) |
