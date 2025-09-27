@@ -27,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1834-minimum-number-of-people-to-teach](https://github.com/23MH1A1242/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/23MH1A1242/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/23MH1A1242/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3827-implement-router](https://github.com/23MH1A1242/leetcode/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
+| [1834-minimum-number-of-people-to-teach](https://github.com/23MH1A1242/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/23MH1A1242/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/23MH1A1242/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/23MH1A1242/leetcode/tree/master/3678-design-task-manager) |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/23MH1A1242/leetcode/tree/master/0062-unique-paths) |
+## Greedy
+|  |
+| ------- |
+| [1834-minimum-number-of-people-to-teach](https://github.com/23MH1A1242/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 <!---LeetCode Topics End-->
