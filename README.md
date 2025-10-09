@@ -94,9 +94,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/23MH1A1242/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/23MH1A1242/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/23MH1A1242/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/23MH1A1242/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
