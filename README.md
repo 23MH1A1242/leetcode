@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/23MH1A1242/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/23MH1A1242/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/23MH1A1242/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/23MH1A1242/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/23MH1A1242/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3827-implement-router](https://github.com/23MH1A1242/leetcode/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/23MH1A1242/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/23MH1A1242/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/23MH1A1242/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3827-implement-router](https://github.com/23MH1A1242/leetcode/tree/master/3827-implement-router) |
 ## Queue
 |  |
