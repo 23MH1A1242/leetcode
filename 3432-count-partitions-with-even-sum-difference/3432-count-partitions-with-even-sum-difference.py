@@ -1,0 +1,1 @@
+class Solution: countPartitions=lambda _,a:[lambda:len(a)-1,lambda:0][sum(a)%2]()         
