@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/23MH1A1242/leetcode/tree/master/0062-unique-paths) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/23MH1A1242/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/23MH1A1242/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/23MH1A1242/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/23MH1A1242/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
