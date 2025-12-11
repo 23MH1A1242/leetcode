@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/23MH1A1242/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2429-design-a-food-rating-system](https://github.com/23MH1A1242/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/23MH1A1242/leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3136-valid-word](https://github.com/23MH1A1242/leetcode/tree/master/3136-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/23MH1A1242/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Sorting
 |  |
