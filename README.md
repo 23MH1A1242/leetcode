@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/23MH1A1242/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/23MH1A1242/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2429-design-a-food-rating-system](https://github.com/23MH1A1242/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/23MH1A1242/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/23MH1A1242/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3136-valid-word](https://github.com/23MH1A1242/leetcode/tree/master/3136-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/23MH1A1242/leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/23MH1A1242/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/23MH1A1242/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/23MH1A1242/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/23MH1A1242/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
