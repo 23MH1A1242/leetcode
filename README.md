@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/23MH1A1242/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0756-pyramid-transition-matrix](https://github.com/23MH1A1242/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/23MH1A1242/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/23MH1A1242/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/23MH1A1242/leetcode/tree/master/2211-count-collisions-on-a-road) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/23MH1A1242/leetcode/tree/master/0001-two-sum) |
+| [0756-pyramid-transition-matrix](https://github.com/23MH1A1242/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/23MH1A1242/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/23MH1A1242/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/23MH1A1242/leetcode/tree/master/2023-design-movie-rental-system) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/23MH1A1242/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/23MH1A1242/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bitmask
 |  |
@@ -186,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3583-count-special-triplets](https://github.com/23MH1A1242/leetcode/tree/master/3583-count-special-triplets) |
+## Backtracking
+|  |
+| ------- |
+| [0756-pyramid-transition-matrix](https://github.com/23MH1A1242/leetcode/tree/master/0756-pyramid-transition-matrix) |
 <!---LeetCode Topics End-->
