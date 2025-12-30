@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/23MH1A1242/leetcode/tree/master/0062-unique-paths) |
+| [0840-magic-squares-in-grid](https://github.com/23MH1A1242/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/23MH1A1242/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/23MH1A1242/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/23MH1A1242/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/23MH1A1242/leetcode/tree/master/0001-two-sum) |
+| [0840-magic-squares-in-grid](https://github.com/23MH1A1242/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/23MH1A1242/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/23MH1A1242/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/23MH1A1242/leetcode/tree/master/2023-design-movie-rental-system) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/23MH1A1242/leetcode/tree/master/0001-two-sum) |
 | [0756-pyramid-transition-matrix](https://github.com/23MH1A1242/leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/23MH1A1242/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/23MH1A1242/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/23MH1A1242/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/23MH1A1242/leetcode/tree/master/2023-design-movie-rental-system) |
@@ -193,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/23MH1A1242/leetcode/tree/master/0756-pyramid-transition-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0840-magic-squares-in-grid](https://github.com/23MH1A1242/leetcode/tree/master/0840-magic-squares-in-grid) |
 <!---LeetCode Topics End-->
