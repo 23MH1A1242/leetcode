@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/23MH1A1242/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/23MH1A1242/leetcode/tree/master/0062-unique-paths) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/23MH1A1242/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/23MH1A1242/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/23MH1A1242/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Combinatorics
